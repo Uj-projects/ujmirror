@@ -16,3 +16,4 @@ jobs:
           heroku_app_name: "YOUR APP's NAME" #Must be unique in Heroku
           heroku_email: "YOUR EMAIL"
           config_file_url: "URL OF COFIG"
+          dockerfile: "True"
